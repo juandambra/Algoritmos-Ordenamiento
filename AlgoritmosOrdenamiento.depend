@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1422226321 source:/home/esteban/Programming/C/AlgoritmosOrdenamiento/funciones.c
+	"funciones.h"
+	"var_array_2.h"
+	<string.h>
+
+1422227066 /home/esteban/Programming/C/AlgoritmosOrdenamiento/funciones.h
+	<stdio.h>
+	"var_array_2.h"
+
+1410732030 /home/esteban/Programming/C/AlgoritmosOrdenamiento/var_array_2.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1422226478 source:/home/esteban/Programming/C/AlgoritmosOrdenamiento/TP1F.c
+	<stdio.h>
+	<stdlib.h>
+	"var_array_2.h"
+	"funciones.h"
+
+1410732068 source:/home/esteban/Programming/C/AlgoritmosOrdenamiento/var_array_2.c
+	"var_array_2.h"
+
